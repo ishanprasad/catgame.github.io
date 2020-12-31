@@ -52,10 +52,10 @@ body{
     animation: hero 0.6s linear;
 }
 .obstacleani{
-    animation: obstacleani 1.9s linear infinite;
+    animation: obstacleani 3s linear infinite;
 }
 .obstacle2ani{
-    animation: obstacle2ani 1.5s linear infinite;
+    animation: obstacle2ani 2.4s linear infinite;
 }
 #scorecont{
     position: absolute;
