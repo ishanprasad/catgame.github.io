@@ -16,7 +16,7 @@ document.addEventListener('keydown', function(e){
         audiojump.play();
         setTimeout(() => {
             hero.classList.remove('animatehero')
-        }, 600);
+        }, 1200);
     }
     if(e.keyCode==39){
         hero = document.querySelector('.hero');
